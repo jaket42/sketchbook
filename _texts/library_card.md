@@ -20,5 +20,6 @@ doing right now, and check them out.
 - [Preface]({{ site.baseurl }}{% link contents/preface.html %})
 - [Childhood's End]({{ site.baseurl }}{% link contents/childhoodsend.md %})
 - [The Power]({{ site.baseurl }}{% link contents/thepower.md %})
+- [Test]({{ site.baseurl }}{% link contents/test.md %})
 
 ---
